@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Temith
-- 👀 I’m interested in product design 
-- 🌱 I’m currently learning UI/UX
+- 👀 I’m interested in product design and web development
+- 🌱 I’m currently learning UI/UX and web design
 - 💞️ I’m looking to collaborate on with any expertise on this field before, I am looking forward to a serious minded colleague 
 - 📫 How to reach me ...
 
